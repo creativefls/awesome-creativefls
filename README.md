@@ -23,6 +23,7 @@ Daftar kumpulan bookmark keren dan keren-keren yang lain di creative FLS
 ### Tools
 - [jquery validator](https://stackoverflow.com/questions/14896854/jquery-select-box-validation) - validasi form dengan jquery
 - [Grocery Crud](https://www.grocerycrud.com/) - Create a full stable CRUD in 30 seconds!
+- [Laravel Mix](https://laravel.com/docs/5.5/mix) - Bikin Minify CSS dan Js supaya jadi satu file dengan bantuan Webpack :)
 
 ### How To
 - [laravel on shared hosting](http://laraveldaily.com/laravel-and-shared-hosting-working-with-ftp-and-phpmyadmin/) - kalau mau deploy laravel di shared hosting
