@@ -7,6 +7,11 @@ Daftar kumpulan bookmark keren dan keren-keren yang lain di creative FLS
 
 ## Web Development
 
+### Library
+- [jquery validator](https://stackoverflow.com/questions/14896854/jquery-select-box-validation) - validasi form dengan jquery
+- [Grocery Crud](https://www.grocerycrud.com/) - Create a full stable CRUD in 30 seconds!
+- [Vivify](http://vivify.mkcreative.cz/) - Bikin animasi dengan CSS
+
 ### Auth
 - [Ion Auth](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Bikin Auth di Codeigniter gak Bikin Ribet
 
@@ -21,8 +26,6 @@ Daftar kumpulan bookmark keren dan keren-keren yang lain di creative FLS
 - [Admin Template - AdminLTE](https://adminlte.io/themes/AdminLTE/index2.html) - Admin yang digunakan untuk dashboard PID untuk seleksi delegates FLS
 
 ### Tools
-- [jquery validator](https://stackoverflow.com/questions/14896854/jquery-select-box-validation) - validasi form dengan jquery
-- [Grocery Crud](https://www.grocerycrud.com/) - Create a full stable CRUD in 30 seconds!
 - [Laravel Mix](https://laravel.com/docs/5.5/mix) - Bikin Minify CSS dan Js supaya jadi satu file dengan bantuan Webpack :)
 
 ### How To
