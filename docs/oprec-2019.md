@@ -12,7 +12,7 @@ Saat ini kami butuh bantuan. Kami mencari pemuda Indonesia untuk berkontribusi s
 
 Jika kamu tertarik untuk berkontribusi sebagai tim IT FLS 2019, secepatnya beritau kami dengan mengirim surel ke alamat [futureleadersummit@gmail.com](mailto:futureleadersummit@gmail.com). Jangan lupa lampirkan riwayat hidup (CV) serta portofoliomu.
 
-Segera selanjutnya akan ada bootcamp sebagai pembekalan dan mengasah kemampuan untuk menghadapi tantangan berikutnya memecahkan masalah yang ada.
+Setelah proses registrasi selesai, selanjutnya kamu bersama pendaftar lainnya akan menyelesaikan sebuah bootcamp sebagai bekal dan ajang untuk mengasah kemampuan kalian untuk menghadapi tantangan berikutnya dan memecahkan masalah yang ada.
 
 Kami tunggu sampai Jumat 12-10-2018 23.59 WIB.
 
