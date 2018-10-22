@@ -1,15 +1,17 @@
 # Bootcamp IT FLS
 
+![nusantara muda logo](https://user-images.githubusercontent.com/21119252/47293714-16dd1b00-d635-11e8-84db-9abf429a0c68.png)
+![image](https://user-images.githubusercontent.com/21119252/41821836-c2787e10-7810-11e8-8d2a-cc829bea4ae3.png)
+
 # Materi Fullstack Javascript
 ## Intro
 - review html, css, js, inspect element
-- cara kerja daleman web browser → https://youtu.be/z0HN-fG6oT4
+- cara kerja daleman web browser
 - freecodecamp untuk belajar+latihan
   - buat akun freecodecamp,
   - profilenya dibikin public,
   - url profilnya dikumpulin di google classroom
 - dasar cli
-  - video dari santren koding → https://youtu.be/pXq946hwv_0
 - git, github
 
 ## Javascript
@@ -19,7 +21,6 @@
 - JSON
 - ajax
 - asyncronous di javascript
-  - promise → https://youtu.be/Tya4Rcj4OPE
 
 ## VueJS
 - vuejs via cdn
